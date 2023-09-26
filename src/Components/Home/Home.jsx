@@ -1,9 +1,8 @@
-import Nav from "../Nav/Nav";
-
+import Banner from "../Banner/Banner";
 const Home = () => {
   return (
-    <div>
-      <Nav></Nav>
+    <div className="my-5">
+      <Banner></Banner>
     </div>
   );
 };

@@ -1,7 +1,11 @@
+import Nav from "../Nav/Nav";
+
 const Donation = () => {
   return (
     <div>
-      <h3>its donation page</h3>
+      <div>
+        <Nav></Nav>
+      </div>
     </div>
   );
 };

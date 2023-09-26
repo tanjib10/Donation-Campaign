@@ -1,10 +1,9 @@
 import { Outlet } from "react-router-dom";
-import Home from "../Components/Home/Home";
+// import Nav from "../Components/Nav/Nav";
 
 const Route = () => {
   return (
-    <div className="max-w-[1200px] mx-auto">
-      <Home></Home>
+    <div className="">
       <Outlet></Outlet>
     </div>
   );
