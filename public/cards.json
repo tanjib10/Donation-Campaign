@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "image": "https://i.ibb.co/6nMbHVJ/Health.png",
+    "title": "Medical Supplies Donation",
+    "category": "Health",
+    "category_bg": "#FF5733",
+    "card_bg": "#E6E6E6",
+    "text_button_bg": "#333333",
+    "description": "Support those in need of medical supplies with your generous donation. Your contribution helps provide essential healthcare items to those facing health challenges.",
+    "price": 99
+  },
+  {
+    "id": 2,
+    "image": "https://i.ibb.co/B6DT8RG/Clothing.png",
+    "title": "Clothing Drive",
+    "category": "Clothing",
+    "category_bg": "#FFC300",
+    "card_bg": "#F5F5F5",
+    "text_button_bg": "#333333",
+    "description": "Make a difference in the lives of those less fortunate by donating clothing. Your contribution ensures that individuals and families stay warm and clothed.",
+    "price": 149
+  },
+  {
+    "id": 3,
+    "image": "https://i.ibb.co/tY4D3Tq/Education.png",
+    "title": "Educational Support",
+    "category": "Education",
+    "category_bg": "#33FF57",
+    "card_bg": "#F0F0F0",
+    "text_button_bg": "#333333",
+    "description": "Empower students and learners through educational support. Your donation provides access to resources, scholarships, and educational opportunities.",
+    "price": 79
+  },
+  {
+    "id": 4,
+    "image": "https://i.ibb.co/60bt3sB/Food.png",
+    "title": "Food Bank Donation",
+    "category": "Food",
+    "category_bg": "#3366FF",
+    "card_bg": "#ECECEC",
+    "text_button_bg": "#333333",
+    "description": "Help fight hunger in your community by donating to the food bank. Your contribution ensures that families have access to nutritious meals during difficult times.",
+    "price": 99
+  },
+  {
+    "id": 5,
+    "image": "https://i.ibb.co/6nMbHVJ/Health.png",
+    "title": "Healthcare Assistance Fund",
+    "category": "Health",
+    "category_bg": "#FF33DD",
+    "card_bg": "#F7F7F7",
+    "text_button_bg": "#333333",
+    "description": "Support individuals in need of healthcare assistance through your donation. Your contribution covers medical expenses and critical treatments.",
+    "price": 129
+  },
+  {
+    "id": 6,
+    "image": "https://i.ibb.co/tY4D3Tq/Education.png",
+    "title": "Scholarship Program",
+    "category": "Education",
+    "category_bg": "#33FFD2",
+    "card_bg": "#F2F2F2",
+    "text_button_bg": "#333333",
+    "description": "Invest in the future of aspiring students by contributing to our scholarship program. Your donation helps students pursue their educational dreams.",
+    "price": 39
+  },
+  {
+    "id": 7,
+    "image": "https://i.ibb.co/60bt3sB/Food.png",
+    "title": "Community Meals Initiative",
+    "category": "Food",
+    "category_bg": "#FF3366",
+    "card_bg": "#E8E8E8",
+    "text_button_bg": "#333333",
+    "description": "Provide hot meals and nourishment to those experiencing food insecurity. Your donation supports community meal programs and food distribution.",
+    "price": 19
+  },
+  {
+    "id": 8,
+    "image": "https://i.ibb.co/6nMbHVJ/Health.png",
+    "title": "Health and Wellness Outreach",
+    "category": "Health",
+    "category_bg": "#FF9900",
+    "card_bg": "#F9F9F9",
+    "text_button_bg": "#333333",
+    "description": "Promote health and wellness in your community through your donation. Your contribution supports healthcare outreach programs and preventive care initiatives.",
+    "price": 9
+  },
+  {
+    "id": 9,
+    "image": "https://i.ibb.co/tY4D3Tq/Education.png",
+    "title": "Educational Materials Drive",
+    "category": "Education",
+    "category_bg": "#33FF99",
+    "card_bg": "#FAFAFA",
+    "text_button_bg": "#333333",
+    "description": "Enhance learning opportunities by donating educational materials. Your contribution provides books, supplies, and tools to eager students.",
+    "price": 49
+  },
+  {
+    "id": 10,
+    "image": "https://i.ibb.co/60bt3sB/Food.png",
+    "title": "Emergency Food Relief",
+    "category": "Food",
+    "category_bg": "#FF33CC",
+    "card_bg": "#FBFBFB",
+    "text_button_bg": "#333333",
+    "description": "Respond to food emergencies by donating to our relief efforts. Your contribution ensures that no one goes hungry during crises.",
+    "price": 29
+  },
+  {
+    "id": 11,
+    "image": "https://i.ibb.co/6nMbHVJ/Health.png",
+    "title": "Mental Health Support",
+    "category": "Health",
+    "category_bg": "#3399FF",
+    "card_bg": "#FDFDFD",
+    "text_button_bg": "#333333",
+    "description": "Provide essential mental health support through your donation. Your contribution funds counseling, therapy, and mental health awareness programs.",
+    "price": 79
+  },
+  {
+    "id": 12,
+    "image": "https://i.ibb.co/tY4D3Tq/Education.png",
+    "title": "Back-to-School Supplies",
+    "category": "Education",
+    "category_bg": "#FF6633",
+    "card_bg": "#FEFEFE",
+    "text_button_bg": "#333333",
+    "description": "Equip students for success by donating back-to-school supplies. Your contribution ensures that children have the tools they need for a bright future.",
+    "price": 19
+  }
+]
