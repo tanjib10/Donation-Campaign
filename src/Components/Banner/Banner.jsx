@@ -16,7 +16,7 @@ const Banner = () => {
         </div>
         <div className="hero-content text-center relative z-10 flex flex-col">
           <div className="">
-            <h1 className="text-2xl lg:text-4xl mt-32 lg:mt-0 text-black font-bold">
+            <h1 className="text-xl md:text-2xl lg:text-4xl mt-32 lg:mt-0 text-black font-bold">
               I Grow By Helping People In Need
             </h1>
           </div>
@@ -24,7 +24,7 @@ const Banner = () => {
             <input
               type="text"
               placeholder="Search here.."
-              className="input input-bordered w-96 max-w-xs"
+              className="input input-bordered w-60 lg:w-96 max-w-xs"
             />
             <button className="btn btn-error rounded-xl text-white flex flex-col justify-center items-center">
               Search
