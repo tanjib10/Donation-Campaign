@@ -1,13 +1,22 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
-import App from "./App.jsx";
 import "./index.css";
 
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
+import Route from "./Route/Route.jsx";
+import ErrorPage from "./Components/ErrorPage/ErrorPage";
+import Donation from "./Components/Donation/Donation";
 const router = createBrowserRouter([
   {
     path: "/",
-    element: <div>Hello world!</div>,
+    element: <Route></Route>,
+    errorElement: <ErrorPage></ErrorPage>,
+    children: [
+      {
+        path: "/donation",
+        element: <Donation></Donation>,
+      },
+    ],
   },
 ]);
 
