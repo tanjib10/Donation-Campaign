@@ -1,7 +1,5 @@
 /* eslint-disable no-unused-vars */
-
 import { Link } from "react-router-dom";
-
 /* eslint-disable react/prop-types */
 const Category = ({ data }) => {
   const {

@@ -4,7 +4,6 @@ const Statistics = () => {
   return (
     <div>
       <Nav></Nav>
-      Stats
     </div>
   );
 };
