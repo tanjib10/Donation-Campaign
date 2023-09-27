@@ -7,7 +7,8 @@
     "category_bg": "#0052FF",
     "card_bg": "#0052FF26",
     "text_button_bg": "#0052FF",
-    "description": "Support those in need of medical supplies with your generous donation. Your contribution helps provide essential healthcare items to those facing health challenges."
+    "description": "Support those in need of medical supplies with your generous donation. Your contribution helps provide essential healthcare items to those facing health challenges.",
+    "price": 50
   },
   {
     "id": 4,
@@ -17,7 +18,8 @@
     "category_bg": "#F87147",
     "card_bg": "#F8714726",
     "text_button_bg": "#F87147",
-    "description": "Help fight hunger in your community by donating to the food bank. Your contribution ensures that families have access to nutritious meals during difficult times."
+    "description": "Help fight hunger in your community by donating to the food bank. Your contribution ensures that families have access to nutritious meals during difficult times.",
+    "price": 25
   },
   {
     "id": 2,
@@ -27,7 +29,8 @@
     "category_bg": "#79C23F",
     "card_bg": "#79C23F26",
     "text_button_bg": "#79C23F",
-    "description": "Make a difference in the lives of those less fortunate by donating clothing. Your contribution ensures that individuals and families stay warm and clothed."
+    "description": "Make a difference in the lives of those less fortunate by donating clothing. Your contribution ensures that individuals and families stay warm and clothed.",
+    "price": 10
   },
   {
     "id": 3,
@@ -37,7 +40,8 @@
     "category_bg": "#FF444A",
     "card_bg": "#FF444A26",
     "text_button_bg": "#FF444A",
-    "description": "Empower students and learners through educational support. Your donation provides access to resources, scholarships, and educational opportunities."
+    "description": "Empower students and learners through educational support. Your donation provides access to resources, scholarships, and educational opportunities.",
+    "price": 100
   },
   {
     "id": 5,
@@ -47,7 +51,8 @@
     "category_bg": "#0052FF",
     "card_bg": "#0052FF26",
     "text_button_bg": "#0052FF",
-    "description": "Support individuals in need of healthcare assistance through your donation. Your contribution covers medical expenses and critical treatments."
+    "description": "Support individuals in need of healthcare assistance through your donation. Your contribution covers medical expenses and critical treatments.",
+    "price": 75
   },
   {
     "id": 7,
@@ -57,7 +62,8 @@
     "category_bg": "#F87147",
     "card_bg": "#F8714726",
     "text_button_bg": "#F87147",
-    "description": "Provide hot meals and nourishment to those experiencing food insecurity. Your donation supports community meal programs and food distribution."
+    "description": "Provide hot meals and nourishment to those experiencing food insecurity. Your donation supports community meal programs and food distribution.",
+    "price": 20
   },
   {
     "id": 6,
@@ -67,7 +73,8 @@
     "category_bg": "#FF444A",
     "card_bg": "#FF444A26",
     "text_button_bg": "#FF444A",
-    "description": "Invest in the future of aspiring students by contributing to our scholarship program. Your donation helps students pursue their educational dreams."
+    "description": "Invest in the future of aspiring students by contributing to our scholarship program. Your donation helps students pursue their educational dreams.",
+    "price": 150
   },
   {
     "id": 8,
@@ -77,7 +84,8 @@
     "category_bg": "#79C23F",
     "card_bg": "#79C23F26",
     "text_button_bg": "#79C23F",
-    "description": "Promote health and wellness in your community through your donation. Your contribution supports healthcare outreach programs and preventive care initiatives."
+    "description": "Promote health and wellness in your community through your donation. Your contribution supports healthcare outreach programs and preventive care initiatives.",
+    "price": 30
   },
   {
     "id": 9,
@@ -87,7 +95,8 @@
     "category_bg": "#FF444A",
     "card_bg": "#FF444A26",
     "text_button_bg": "#FF444A",
-    "description": "Enhance learning opportunities by donating educational materials. Your contribution provides books, supplies, and tools to eager students."
+    "description": "Enhance learning opportunities by donating educational materials. Your contribution provides books, supplies, and tools to eager students.",
+    "price": 40
   },
   {
     "id": 10,
@@ -97,7 +106,8 @@
     "category_bg": "#F87147",
     "card_bg": "#F8714726",
     "text_button_bg": "#F87147",
-    "description": "Respond to food emergencies by donating to our relief efforts. Your contribution ensures that no one goes hungry during crises."
+    "description": "Respond to food emergencies by donating to our relief efforts. Your contribution ensures that no one goes hungry during crises.",
+    "price": 15
   },
   {
     "id": 11,
@@ -107,7 +117,8 @@
     "category_bg": "#0052FF",
     "card_bg": "#0052FF26",
     "text_button_bg": "#0052FF",
-    "description": "Provide essential mental health support through your donation. Your contribution funds counseling, therapy, and mental health awareness programs."
+    "description": "Provide essential mental health support through your donation. Your contribution funds counseling, therapy, and mental health awareness programs.",
+    "price": 60
   },
   {
     "id": 12,
@@ -117,6 +128,7 @@
     "category_bg": "#79C23F",
     "card_bg": "#79C23F26",
     "text_button_bg": "#79C23F",
-    "description": "Equip students for success by donating back-to-school supplies. Your contribution ensures that children have the tools they need for a bright future."
+    "description": "Equip students for success by donating back-to-school supplies. Your contribution ensures that children have the tools they need for a bright future.",
+    "price": 5
   }
 ]
