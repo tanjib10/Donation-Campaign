@@ -3,6 +3,7 @@ import Nav from "../Nav/Nav";
 import CardForDonate from "../CardForDonate/CardForDonate";
 
 const Donation = () => {
+  const [show, setIsShow] = useState(false);
   const [donate, setDonate] = useState([]);
   const [noData, setNodata] = useState(false);
   useEffect(() => {
@@ -31,12 +32,24 @@ const Donation = () => {
               grid-cols-1 lg:grid-cols-2
               gap-4"
             >
-              {donate.map((data) => (
-                <CardForDonate key={data.id} data={data}></CardForDonate>
-              ))}
+              {show
+                ? donate.map((data) => (
+                    <CardForDonate key={data.id} data={data}></CardForDonate>
+                  ))
+                : donate
+                    .slice(0, 4)
+                    .map((data) => (
+                      <CardForDonate key={data.id} data={data}></CardForDonate>
+                    ))}
             </div>
           </div>
         )}
+        <button
+          onClick={() => setIsShow(!show)}
+          className="btn bg-[#009444] text-white block mx-auto my-6"
+        >
+          {show ? "See less" : "See More"}
+        </button>
       </div>
     </div>
   );
