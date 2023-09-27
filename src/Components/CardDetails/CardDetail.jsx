@@ -2,6 +2,7 @@
 /* eslint-disable no-unused-vars */
 import { ToastContainer, toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
+
 const CardDetail = ({ card }) => {
   const {
     id,
@@ -20,9 +21,16 @@ const CardDetail = ({ card }) => {
     if (!item) {
       addedDonations.push(card);
       localStorage.setItem("item", JSON.stringify(addedDonations));
+      // toast("Successfully Done");
     } else {
-      addedDonations.push(...item);
-      localStorage.setItem("item", JSON.stringify(addedDonations));
+      const isExist = item.find((card) => card.id === id);
+      if (!isExist) {
+        addedDonations.push(...item, card);
+        localStorage.setItem("item", JSON.stringify(addedDonations));
+        toast("Successfully Done");
+      } else {
+        toast("Donated Before");
+      }
     }
   };
   return (
@@ -46,6 +54,7 @@ const CardDetail = ({ card }) => {
       </div>
       <h3 className="text-3xl font-bold p-6">{title}</h3>
       <p className="text-lg p-2">{description}</p>
+      <ToastContainer />
     </div>
   );
 };
